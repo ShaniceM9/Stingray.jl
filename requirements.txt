@@ -133,7 +133,7 @@ graphviz==0.20.3
 greenlet @ file:///Users/ec2-user/ci_py311/greenlet_1678323340336/work
 griffe==1.7.0
 gwcs==0.19.0
-h11==0.14.0
+h11==0.16.0
 h2==4.2.0
 h5py @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a4au6npi7q/croot/h5py_1691589712522/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
