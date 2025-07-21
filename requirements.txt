@@ -384,7 +384,7 @@ spyder @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b93
 spyder-kernels @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_88d8aoyzh1/croot/spyder-kernels_1691599547665/work
 SQLAlchemy==2.0.40
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-starlette==0.46.1
+starlette==0.47.2
 statsmodels @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6ceh3qgte0/croot/statsmodels_1689937269297/work
 stingray==2.2.6
 sympy @ file:///Users/ec2-user/ci_py311_2/sympy_1679338337660/work
