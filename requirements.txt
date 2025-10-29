@@ -423,7 +423,7 @@ ujson==5.10.0
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 unyt @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_6bs5iq0mb3/croot/unyt_1739892920465/work
 urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1968zekhce/croot/urllib3_1686163172153/work
-uv==0.6.10
+uv==0.9.6
 uvicorn==0.34.0
 virtualenv==20.29.3
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
