@@ -118,7 +118,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastapi==0.115.12
 fastjsonschema @ file:///Users/ec2-user/ci_py311_2/python-fastjsonschema_1679338737111/work
 feedparser==6.0.11
-filelock==3.18.0
+filelock==3.20.3
 flake8 @ file:///Users/ec2-user/ci_py311/flake8_1678326404511/work
 Flask @ file:///Users/ec2-user/ci_py311/flask_1678380788105/work
 fonttools==4.25.0
